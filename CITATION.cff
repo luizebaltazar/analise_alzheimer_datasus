@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Análise da mortalidade por doença de Alzheimer no Brasil: Scripts em R"
+message: "Se você utilizar este repositório, por favor, cite-o conforme abaixo."
+type: software
+
+authors:
+  - family-names: Velter
+    given-names: Fabiano
+
+  - family-names: Baltazar
+    given-names: Luize
+
+  - family-names: Quaresma
+    given-names: Heitor
+
+  - family-names: Camelo
+    given-names: Leonardo
+
+  - family-names: Rodrigues
+    given-names: Davi
+
+  - family-names: Viana
+    given-names: Felipe
+
+  - family-names: Reis
+    given-names: Leonardo
+
+  - family-names: Lopes
+    given-names: Daniel
+
+version: "1.0"
+date-released: "2026-06-30"
+
+repository-code: "https://github.com/luizebaltazar/analise_alzheimer_datasus"
