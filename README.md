@@ -1,6 +1,6 @@
 # analise_alzheimer_datasus
 Scripts para gerar gráficos e tabelas
-# Análise da mortalidade por Doença de Alzheimer no Brasil
+# Análise de mortalidade por doença de Alzheimer no Brasil
 
 Este repositório contém os scripts em R utilizados para a análise estatística e geração de tabelas e gráficos do artigo:
 
