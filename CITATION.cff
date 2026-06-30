@@ -4,7 +4,7 @@ message: "Se você utilizar este repositório, por favor, cite-o conforme abaixo
 type: software
 
 authors:
-  - family-names: Velter
+  - family-names: Welter
     given-names: Fabiano
 
   - family-names: Baltazar
@@ -25,7 +25,7 @@ authors:
   - family-names: Reis
     given-names: Leonardo
 
-  - family-names: Lopes
+  - family-names: Bernardo
     given-names: Daniel
 
 version: "1.0"
